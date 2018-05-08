@@ -1,0 +1,19 @@
+{
+  "name": "timepickerpop",
+  "version": "1.0.0",
+  "description": "Popup Time Picker Using AngularJS",
+  "main": "src/timepickerpop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boffka/timepickerpop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boffka/timepickerpop/issues"
+  },
+  "homepage": "https://github.com/Boffka/timepickerpop#readme"
+}
